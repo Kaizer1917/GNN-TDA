@@ -1,8 +1,4 @@
-# TEAM: **T**opological **E**volution-**a**ware Fra**m**ework for Traffic Forecasting
-
-Code for "**T**opological **E**volution-**a**ware Fra**m**ework for Traffic Forecasting"（VLDB 2025). 
-
-TEAM is a traffic forecasting framework that utilizes continual learning algorithm to handle the evolution of topology of traffic road network (expanding or removing)
+# GNN-TDA
 
 ## Introduction
 
